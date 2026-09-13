@@ -1,5 +1,5 @@
 # Data Jobs Dashboard w/ Power BI
-
+![](images/Project1_Dashboard_Overview.gif)
 <a href="https://lukeb.co/powerbi-project1" target="_blank">
   <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
 </a>
